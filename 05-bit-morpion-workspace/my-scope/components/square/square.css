@@ -1,0 +1,27 @@
+.square {
+  background: #fff;
+  border: 1px solid #999;
+  float: left;
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 34px;
+  height: 34px;
+  margin-right: -1px;
+  margin-top: -1px;
+  padding: 0;
+  text-align: center;
+  width: 34px;
+  color: #e8e5e5;
+}
+
+.square_o {
+  background-color: rgb(87, 218, 21);
+}
+
+.square_x {
+  background-color: crimson;
+}
+
+.square:focus {
+  outline: none;
+}
